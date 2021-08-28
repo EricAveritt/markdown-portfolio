@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Bouldering
+* DDR
+* Video Games
+  * RPG
+  * FPS
+  * MMO
